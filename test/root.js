@@ -23,7 +23,7 @@ before(function(done) {
     global.window = window;
 
     return done();
-  });unction myAnimal() {
+  });function myAnimal() {
 
 var animal = 'dog'
   return animal
