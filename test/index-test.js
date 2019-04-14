@@ -1,6 +1,6 @@
 /*global describe, it */
 
-funkyFunctionunction myAnimal() {
+function myAnimal() {
 
 var animal = 'dog'
   return animal
